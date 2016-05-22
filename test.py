@@ -1,1 +1,1 @@
-ptint "test"
+print "test"
